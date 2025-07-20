@@ -7,4 +7,6 @@
 📚 Adoro transformar teoria em prática com projetos próprios!
 
 📬 Entre em contato comigo:
-[LinkedIn](https://www.linkedin.com/in/rafaela-rezende-de-oliveira-1770a3197/) • [E-mail](rezenderafaela2002@gmail.com)
+
+<a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/rafaela-rezende-de-oliveira-1770a3197/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href = "mailto:rezenderafaela2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
